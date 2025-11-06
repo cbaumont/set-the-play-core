@@ -1,0 +1,2111 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 1,
+  "total": 1420,
+  "setlist": [
+    {
+      "id": "7ba96aac",
+      "versionId": "g63bbfab3",
+      "eventDate": "21-05-2024",
+      "lastUpdated": "2024-05-17T13:39:31.927+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "73d466b5",
+        "name": "The O2 Arena",
+        "city": {
+          "id": "2643743",
+          "name": "London",
+          "state": "England",
+          "stateCode": "ENG",
+          "coords": {
+            "lat": 51.5084152563931,
+            "long": -0.125532746315002
+          },
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/the-o2-arena-london-england-73d466b5.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/the-o2-arena-london-england-7ba96aac.html"
+    },
+    {
+      "id": "13ab3d51",
+      "versionId": "g7bbbfa90",
+      "eventDate": "20-05-2024",
+      "lastUpdated": "2024-05-17T13:48:01.170+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "4bd35b96",
+        "name": "AO Arena",
+        "city": {
+          "id": "2643123",
+          "name": "Manchester",
+          "state": "England",
+          "stateCode": "ENG",
+          "coords": {
+            "lat": 53.4809464283615,
+            "long": -2.23743438720703
+          },
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/ao-arena-manchester-england-4bd35b96.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/ao-arena-manchester-england-13ab3d51.html"
+    },
+    {
+      "id": "23abb4c7",
+      "versionId": "g53bbffb9",
+      "eventDate": "16-05-2024",
+      "lastUpdated": "2024-05-17T08:31:12.005+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "63d0eacb",
+        "name": "The OVO Hydro",
+        "city": {
+          "id": "2648579",
+          "name": "Glasgow",
+          "state": "Scotland",
+          "stateCode": "SCT",
+          "coords": {
+            "lat": 55.8333333,
+            "long": -4.25
+          },
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/the-ovo-hydro-glasgow-scotland-63d0eacb.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Walk",
+                "tape": true,
+                "cover": {
+                  "mbid": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
+                  "name": "Pantera",
+                  "sortName": "Pantera",
+                  "disambiguation": "metal band",
+                  "url": "https://www.setlist.fm/setlists/pantera-63d68e8b.html"
+                },
+                "info": "played until end of first chorus"
+              },
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me",
+                "info": "with guitar tech Rob Dawson"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday",
+                "info": "with intro jam"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan Peake on vocals"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "with t-shirt cannons during bridge"
+              },
+              {
+                "name": "When We Stand Together"
+              },
+              {
+                "name": "Hangnail",
+                "info": "Tour debut, first time live since 2019"
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Don't Look Back in Anger",
+                "cover": {
+                  "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
+                  "name": "Oasis",
+                  "sortName": "Oasis",
+                  "disambiguation": "1991–2009 Britpop",
+                  "url": "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+                },
+                "info": "Tour debut, with Ryan Peake and Thomas Rylance on vocals",
+                "with": {
+                  "mbid": "0e31c728-5bf7-43d8-8f3a-f6500dab14fe",
+                  "name": "The Lottery Winners",
+                  "sortName": "Lottery Winners, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-lottery-winners-bd97562.html"
+                }
+              },
+              {
+                "name": "Photograph",
+                "info": "Acoustic until final chorus, then full band"
+              },
+              {
+                "name": "Rockstar",
+                "info": "with a fan on stage invited to sing"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me",
+                "info": "song paused during second chorus due to fan needing medical attention in front row"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/the-ovo-hydro-glasgow-scotland-23abb4c7.html"
+    },
+    {
+      "id": "4ba81b02",
+      "versionId": "gbbc7de6",
+      "eventDate": "26-04-2024",
+      "lastUpdated": "2024-04-27T07:13:23.729+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "13d39d15",
+        "name": "Empire Polo Club",
+        "city": {
+          "id": "5359446",
+          "name": "Indio",
+          "state": "California",
+          "stateCode": "CA",
+          "coords": {
+            "lat": 33.7205771,
+            "long": -116.2155619
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/empire-polo-club-indio-ca-usa-13d39d15.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "SOLD OUT",
+                "cover": {
+                  "mbid": "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
+                  "name": "HARDY",
+                  "sortName": "HARDY",
+                  "disambiguation": "Country Music Artist Michael Hardy",
+                  "url": "https://www.setlist.fm/setlists/hardy-73c8c26d.html"
+                },
+                "with": {
+                  "mbid": "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
+                  "name": "HARDY",
+                  "sortName": "HARDY",
+                  "disambiguation": "Country Music Artist Michael Hardy",
+                  "url": "https://www.setlist.fm/setlists/hardy-73c8c26d.html"
+                }
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "with": {
+                  "mbid": "ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32",
+                  "name": "Jelly Roll",
+                  "sortName": "Jelly Roll",
+                  "disambiguation": "Tennessean country rapper",
+                  "url": "https://www.setlist.fm/setlists/jelly-roll-13db61a5.html"
+                }
+              },
+              {
+                "name": "How You Remind Me"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Palomino Stage",
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/empire-polo-club-indio-ca-4ba81b02.html"
+    },
+    {
+      "id": "73ab1265",
+      "versionId": "g2bbf5036",
+      "eventDate": "19-04-2024",
+      "lastUpdated": "2024-04-20T20:08:21.353+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "63d62247",
+        "name": "BC Place Stadium",
+        "city": {
+          "id": "6173331",
+          "name": "Vancouver",
+          "state": "British Columbia",
+          "stateCode": "BC",
+          "coords": {
+            "lat": 49.249657393,
+            "long": -123.119340403
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bc-place-stadium-vancouver-bc-canada-63d62247.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "With Josh Ross"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/bc-place-stadium-vancouver-bc-canada-73ab1265.html"
+    },
+    {
+      "id": "3babb4c0",
+      "versionId": "g3bbf2c6c",
+      "eventDate": "06-04-2024",
+      "lastUpdated": "2024-04-18T00:50:01.255+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "23d5a867",
+        "name": "Choctaw Grand Theater",
+        "city": {
+          "id": "4535414",
+          "name": "Durant",
+          "state": "Oklahoma",
+          "stateCode": "OK",
+          "coords": {
+            "lat": 33.9939861,
+            "long": -96.370824
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/choctaw-grand-theater-durant-ok-usa-23d5a867.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan Peake on vocals"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/choctaw-grand-theater-durant-ok-3babb4c0.html"
+    },
+    {
+      "id": "33aad89d",
+      "versionId": "gbb3f10e",
+      "eventDate": "13-03-2024",
+      "lastUpdated": "2024-03-15T18:58:03.053+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "bd451b6",
+        "name": "NRG Stadium",
+        "city": {
+          "id": "4699066",
+          "name": "Houston",
+          "state": "Texas",
+          "stateCode": "TX",
+          "coords": {
+            "lat": 29.7632836,
+            "long": -95.3632715
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/nrg-stadium-houston-tx-usa-bd451b6.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar"
+              },
+              {
+                "name": "How You Remind Me"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/nrg-stadium-houston-tx-33aad89d.html"
+    },
+    {
+      "id": "13ad7939",
+      "versionId": "g2bb2bc86",
+      "eventDate": "01-03-2024",
+      "lastUpdated": "2024-03-03T08:25:33.120+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "33d720d9",
+        "name": "Neal S. Blaisdell Arena",
+        "city": {
+          "id": "5856195",
+          "name": "Honolulu",
+          "state": "Hawaii",
+          "stateCode": "HI",
+          "coords": {
+            "lat": 21.3069444,
+            "long": -157.8583333
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neal-s-blaisdell-arena-honolulu-hi-usa-33d720d9.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2024/neal-s-blaisdell-arena-honolulu-hi-13ad7939.html"
+    },
+    {
+      "id": "3ba00088",
+      "versionId": "g5b80d794",
+      "eventDate": "29-10-2023",
+      "lastUpdated": "2023-10-30T12:25:40.453+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "23d62037",
+        "name": "Commonwealth Stadium",
+        "city": {
+          "id": "5946768",
+          "name": "Edmonton",
+          "state": "Alberta",
+          "stateCode": "AB",
+          "coords": {
+            "lat": 53.550135939,
+            "long": -113.468712219
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/commonwealth-stadium-edmonton-ab-canada-23d62037.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Saturday Night's Alright for Fighting",
+                "cover": {
+                  "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                  "name": "Elton John",
+                  "sortName": "John, Elton",
+                  "disambiguation": "English singer, songwriter, pianist, and composer",
+                  "url": "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+                },
+                "info": "First time by Nickelback since 2013"
+              },
+              {
+                "name": "How You Remind Me"
+              },
+              {
+                "name": "Rockstar"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Performed for 2nd intermission the Oilers/Flames NHL Heritage Classic",
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/commonwealth-stadium-edmonton-ab-canada-3ba00088.html"
+    },
+    {
+      "id": "1ba331e4",
+      "versionId": "g43825f57",
+      "eventDate": "05-10-2023",
+      "lastUpdated": "2023-10-20T13:42:06.481+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "53d61fa1",
+        "name": "Fargodome",
+        "city": {
+          "id": "5059163",
+          "name": "Fargo",
+          "state": "North Dakota",
+          "stateCode": "ND",
+          "coords": {
+            "lat": 46.8771863,
+            "long": -96.7898034
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fargodome-fargo-nd-usa-53d61fa1.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons riff\""
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Brantley Gilbert",
+                "with": {
+                  "mbid": "fdfb6b9c-575d-4abb-9a15-4fbceec0dfa3",
+                  "name": "Josh Ross",
+                  "sortName": "Ross, Josh",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/josh-ross-3faf13b.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/fargodome-fargo-nd-1ba331e4.html"
+    },
+    {
+      "id": "63a3ca2f",
+      "versionId": "g73822a71",
+      "eventDate": "03-10-2023",
+      "lastUpdated": "2023-10-18T01:10:59.007+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "2bd4886e",
+        "name": "Pinnacle Bank Arena",
+        "city": {
+          "id": "5072006",
+          "name": "Lincoln",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "coords": {
+            "lat": 40.8000011,
+            "long": -96.6669599
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/pinnacle-bank-arena-lincoln-ne-usa-2bd4886e.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan on vocals"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons\" riff"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Josh Ross",
+                "with": {
+                  "mbid": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+                  "name": "Brantley Gilbert",
+                  "sortName": "Gilbert, Brantley",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brantley-gilbert-5bd55708.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "Sung by a fan named Alex"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/pinnacle-bank-arena-lincoln-ne-63a3ca2f.html"
+    },
+    {
+      "id": "73a3eeed",
+      "versionId": "g7b82dab0",
+      "eventDate": "30-09-2023",
+      "lastUpdated": "2023-10-16T12:03:20.573+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "2bd4a04a",
+        "name": "Riverbend Music Center",
+        "city": {
+          "id": "4508722",
+          "name": "Cincinnati",
+          "state": "Ohio",
+          "stateCode": "OH",
+          "coords": {
+            "lat": 39.1620036,
+            "long": -84.4568863
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/riverbend-music-center-cincinnati-oh-usa-2bd4a04a.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan on vocals"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Brantley Gilbert",
+                "with": {
+                  "mbid": "fdfb6b9c-575d-4abb-9a15-4fbceec0dfa3",
+                  "name": "Josh Ross",
+                  "sortName": "Ross, Josh",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/josh-ross-3faf13b.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/riverbend-music-center-cincinnati-oh-73a3eeed.html"
+    },
+    {
+      "id": "73a3faed",
+      "versionId": "g2384c88b",
+      "eventDate": "29-09-2023",
+      "lastUpdated": "2023-09-30T04:38:45.705+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "7bd08af0",
+        "name": "The Pavilion at Star Lake",
+        "city": {
+          "id": "5182414",
+          "name": "Burgettstown",
+          "state": "Pennsylvania",
+          "stateCode": "PA",
+          "coords": {
+            "lat": 40.3820133,
+            "long": -80.3928423
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/the-pavilion-at-star-lake-burgettstown-pa-usa-7bd08af0.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan Peake on vocals"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Josh Ross",
+                "with": {
+                  "mbid": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+                  "name": "Brantley Gilbert",
+                  "sortName": "Gilbert, Brantley",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brantley-gilbert-5bd55708.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "With big Ryan the drinking coach from the crowd to sing as well"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/the-pavilion-at-star-lake-burgettstown-pa-73a3faed.html"
+    },
+    {
+      "id": "53a38fbd",
+      "versionId": "g7382e2d1",
+      "eventDate": "27-09-2023",
+      "lastUpdated": "2023-10-16T04:05:59.531+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "4bd6c3e2",
+        "name": "Thompson-Boling Arena",
+        "city": {
+          "id": "4634946",
+          "name": "Knoxville",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "coords": {
+            "lat": 35.9606384,
+            "long": -83.9207392
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/thompson-boling-arena-knoxville-tn-usa-4bd6c3e2.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan on vocals"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons\" riff"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Brantley Gilbert",
+                "with": {
+                  "mbid": "fdfb6b9c-575d-4abb-9a15-4fbceec0dfa3",
+                  "name": "Josh Ross",
+                  "sortName": "Ross, Josh",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/josh-ross-3faf13b.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "with": {
+                  "mbid": "a1652aa0-8fae-4f6b-b914-6ab6a1291fdd",
+                  "name": "Nate Smith",
+                  "sortName": "Smith, Nate",
+                  "disambiguation": "US country singer",
+                  "url": "https://www.setlist.fm/setlists/nate-smith-23ffdc77.html"
+                }
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/thompson-boling-arena-knoxville-tn-53a38fbd.html"
+    },
+    {
+      "id": "4ba3a37a",
+      "versionId": "g382d5d7",
+      "eventDate": "25-09-2023",
+      "lastUpdated": "2023-10-16T13:06:34.402+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "13d3ddc9",
+        "name": "Simmons Bank Arena",
+        "city": {
+          "id": "4124112",
+          "name": "North Little Rock",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "coords": {
+            "lat": 34.769536,
+            "long": -92.2670941
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/simmons-bank-arena-north-little-rock-ar-usa-13d3ddc9.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan Peake on vocals"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons\" riff"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Josh Ross",
+                "with": {
+                  "mbid": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+                  "name": "Brantley Gilbert",
+                  "sortName": "Gilbert, Brantley",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brantley-gilbert-5bd55708.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "With a 12-year-old birthday fan named Bentley"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/simmons-bank-arena-north-little-rock-ar-4ba3a37a.html"
+    },
+    {
+      "id": "63a3be0b",
+      "versionId": "g1b82ddf8",
+      "eventDate": "23-09-2023",
+      "lastUpdated": "2023-10-16T04:41:08.880+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "3bd02c30",
+        "name": "Moody Center",
+        "city": {
+          "id": "4671654",
+          "name": "Austin",
+          "state": "Texas",
+          "stateCode": "TX",
+          "coords": {
+            "lat": 30.267153,
+            "long": -97.7430608
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/moody-center-austin-tx-usa-3bd02c30.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "With Brantley Gilbert and Josh Ross"
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "With a radio contest-winning fan named May"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/moody-center-austin-tx-63a3be0b.html"
+    },
+    {
+      "id": "43a2539f",
+      "versionId": "g1bb695a0",
+      "eventDate": "21-09-2023",
+      "lastUpdated": "2024-01-28T20:51:07.385+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "4bd62312",
+        "name": "BOK Center",
+        "city": {
+          "id": "4553433",
+          "name": "Tulsa",
+          "state": "Oklahoma",
+          "stateCode": "OK",
+          "coords": {
+            "lat": 36.1539816,
+            "long": -95.992775
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bok-center-tulsa-ok-usa-4bd62312.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin",
+                "info": "Technical difficulties at the beginning"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan on vocals"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons\" riff"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Brantley Gilbert",
+                "with": {
+                  "mbid": "fdfb6b9c-575d-4abb-9a15-4fbceec0dfa3",
+                  "name": "Josh Ross",
+                  "sortName": "Ross, Josh",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/josh-ross-3faf13b.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "Sung with a fan"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/bok-center-tulsa-ok-43a2539f.html"
+    },
+    {
+      "id": "5ba26b7c",
+      "versionId": "g4b82dbf6",
+      "eventDate": "19-09-2023",
+      "lastUpdated": "2023-10-16T11:07:22.756+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "6bd37286",
+        "name": "T-Mobile Center",
+        "city": {
+          "id": "4393217",
+          "name": "Kansas City",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "coords": {
+            "lat": 39.0997266,
+            "long": -94.5785667
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/t-mobile-center-kansas-city-mo-usa-6bd37286.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons\" riff"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "and Josh Ross",
+                "with": {
+                  "mbid": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+                  "name": "Brantley Gilbert",
+                  "sortName": "Gilbert, Brantley",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brantley-gilbert-5bd55708.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/t-mobile-center-kansas-city-mo-5ba26b7c.html"
+    },
+    {
+      "id": "2ba2009e",
+      "versionId": "g7387ae89",
+      "eventDate": "17-09-2023",
+      "lastUpdated": "2023-09-20T00:31:11.168+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "3d5b10f",
+        "name": "BankPlus Amphitheater at Snowden Grove",
+        "city": {
+          "id": "4446675",
+          "name": "Southaven",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "coords": {
+            "lat": 34.9889818,
+            "long": -90.0125913
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bankplus-amphitheater-at-snowden-grove-southaven-ms-usa-3d5b10f.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Walk",
+                "tape": true,
+                "cover": {
+                  "mbid": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
+                  "name": "Pantera",
+                  "sortName": "Pantera",
+                  "disambiguation": "metal band",
+                  "url": "https://www.setlist.fm/setlists/pantera-63d68e8b.html"
+                }
+              },
+              {
+                "name": "",
+                "tape": true
+              },
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "",
+                "tape": true
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan Peake on lead vocals"
+              },
+              {
+                "name": "Figured You Out"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "info": "& Josh Ross",
+                "with": {
+                  "mbid": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+                  "name": "Brantley Gilbert",
+                  "sortName": "Gilbert, Brantley",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brantley-gilbert-5bd55708.html"
+                }
+              },
+              {
+                "name": "",
+                "tape": true
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "sung with a fan"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/bankplus-amphitheater-at-snowden-grove-southaven-ms-2ba2009e.html"
+    },
+    {
+      "id": "3ba20c24",
+      "versionId": "g5b822ba8",
+      "eventDate": "16-09-2023",
+      "lastUpdated": "2023-10-18T00:57:44.730+0000",
+      "artist": {
+        "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+        "name": "Nickelback",
+        "sortName": "Nickelback",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+      },
+      "venue": {
+        "id": "6bd71236",
+        "name": "Oak Mountain Amphitheatre",
+        "city": {
+          "id": "4082568",
+          "name": "Pelham",
+          "state": "Alabama",
+          "stateCode": "AL",
+          "coords": {
+            "lat": 32.2795864,
+            "long": -88.120021
+          },
+          "country": {
+            "code": "US",
+            "name": "United States"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/oak-mountain-amphitheatre-pelham-al-usa-6bd71236.html"
+      },
+      "tour": {
+        "name": "Get Rollin'"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "San Quentin"
+              },
+              {
+                "name": "Savin' Me"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Animals"
+              },
+              {
+                "name": "Someday"
+              },
+              {
+                "name": "Worthy to Say",
+                "info": "Ryan on vocals"
+              },
+              {
+                "name": "Figured You Out",
+                "info": "W/ T-shirt cannon and \"Fight for All the Wrong Reasons\" riff"
+              },
+              {
+                "name": "Hero",
+                "cover": {
+                  "mbid": "a1debc3b-8d05-4b25-9eee-75ee7a89e6c0",
+                  "name": "Chad Kroeger feat. Josey Scott",
+                  "sortName": "Kroeger, Chad feat. Scott, Josey",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chad-kroeger-feat-josey-scott-33d328e9.html"
+                }
+              },
+              {
+                "name": "Copperhead Road",
+                "cover": {
+                  "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name": "Steve Earle",
+                  "sortName": "Earle, Steve",
+                  "disambiguation": "US folk/rock singer/songwriter",
+                  "url": "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+                },
+                "with": {
+                  "mbid": "9ad8aede-6938-48f2-93fa-908bc4da9ef6",
+                  "name": "Brantley Gilbert",
+                  "sortName": "Gilbert, Brantley",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brantley-gilbert-5bd55708.html"
+                }
+              },
+              {
+                "name": "This Afternoon"
+              },
+              {
+                "name": "Photograph"
+              },
+              {
+                "name": "Rockstar",
+                "info": "Sung by a teacher named James Jones"
+              },
+              {
+                "name": "Those Days"
+              },
+              {
+                "name": "How You Remind Me"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Gotta Be Somebody"
+              },
+              {
+                "name": "Burn It to the Ground"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "The concert started later because of the rain",
+      "url": "https://www.setlist.fm/setlist/nickelback/2023/oak-mountain-amphitheatre-pelham-al-3ba20c24.html"
+    }
+  ]
+}

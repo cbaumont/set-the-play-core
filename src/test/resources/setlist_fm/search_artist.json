@@ -1,0 +1,57 @@
+{
+  "type": "artists",
+  "itemsPerPage": 30,
+  "page": 1,
+  "total": 7,
+  "artist": [
+    {
+      "mbid": "1d6b93ba-851e-447c-b987-8d308d6ac89d",
+      "name": "A Motown Tribute to Nickelback",
+      "sortName": "A Motown Tribute to Nickelback",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/a-motown-tribute-to-nickelback-3dae16b.html"
+    },
+    {
+      "mbid": "40843b9e-3bd0-4e1a-9c02-984783d8abfb",
+      "name": "Bossa Nova All-Star Ensemble (Made Famous by Nickelback)",
+      "sortName": "Bossa Nova All-Star Ensemble (Made Famous by Nickelback)",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/bossa-nova-all-star-ensemble-made-famous-by-nickelback-53dbc345.html"
+    },
+    {
+      "mbid": "c7d0d6f4-4eb2-4d36-8f61-fe7e2ce4af0d",
+      "name": "Justin Bieber Nickelback",
+      "sortName": "Justin Bieber Nickelback",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/justin-bieber-nickelback-53f10fa1.html"
+    },
+    {
+      "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+      "name": "Nickelback",
+      "sortName": "Nickelback",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/nickelback-2bd6bc76.html"
+    },
+    {
+      "mbid": "2641cbe9-d1e7-4127-be03-6d73970afb0c",
+      "name": "Nickelback & HARDY",
+      "sortName": "Nickelback & HARDY",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/nickelback-and-hardy-73e58eed.html"
+    },
+    {
+      "mbid": "9d5eb8c9-920b-4106-ae23-e29a33d75949",
+      "name": "Nickelback feat. Flo Rida",
+      "sortName": "Nickelback feat. Flo Rida",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/nickelback-feat-flo-rida-13d98571.html"
+    },
+    {
+      "mbid": "c8b5003a-3ce9-4f08-bf4d-c837428ea765",
+      "name": "Nickelback featuring Kid Rock",
+      "sortName": "Nickelback featuring Kid Rock",
+      "disambiguation": "",
+      "url": "https://www.setlist.fm/setlists/nickelback-featuring-kid-rock-5bfdfbfc.html"
+    }
+  ]
+}

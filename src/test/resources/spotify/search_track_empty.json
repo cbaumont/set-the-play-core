@@ -1,0 +1,11 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=track%3APisfjdofijgoidjfgiodfij+artist%3ANickelback&type=track&locale=en-GB%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Cpt%3Bq%3D0.7&offset=0&limit=10",
+    "limit": 10,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 0,
+    "items": []
+  }
+}
