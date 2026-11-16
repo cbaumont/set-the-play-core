@@ -4,6 +4,7 @@ data class TrackModel(
     val album: String? = null,
     val spotifyURI: String? = null,
 ) {
+    fun displayName(): String = listOfNotNull(artist, name).joinToString(" - ")
 }
 
 internal fun Setlist.mapToTrackModelList(): List<TrackModel> =
